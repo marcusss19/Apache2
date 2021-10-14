@@ -1,7 +1,7 @@
 ## LE PROJET
 
-ce Projet sert a demarer un site web dans un conteneur Docker 
-rapidement et efficacement qui sera accesible au personne dans le meme reseau
+Ce projet sert a demarer un site web dans un conteneur Docker 
+rapidement et efficacement qui sera accesible sur http://IP_OF_HOST:8080
 
 ## Les Prerequis
 • ubuntu 20.04
@@ -15,7 +15,7 @@ rapidement et efficacement qui sera accesible au personne dans le meme reseau
 ## Execution du Projet
 demarer le script siteweb_instantaner.sh avec la Commande
 
-$ sudo bash siteweb_instantaner
+$ sudo bash "chemin du fichier siteweb_instantaner"
 
 ## Les option du script
 
