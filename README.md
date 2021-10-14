@@ -19,6 +19,6 @@ $ sudo bash "chemin du fichier siteweb_instantaner"
 
 ## Les option du script
 
-1) la premier option cree l'image et le conteuner avec le siteweb du Github
-2) la deusiem option supprime l'image et le conteneur 
-3) la troisiem option quit le script
+1) la premiere option clone le répertoire de Git vers votre poste, build l'image, et exec le conteneur avec la mapping réseaux necessaire.Apres un delete automatique des fichers non nécessaire. 
+2) la deuxième option supprime l'image et le conteneur 
+3) la troisième option quit le script
