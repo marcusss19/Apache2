@@ -1,2 +1,3 @@
 FROM httpd:latest
-TEST YOU WILL FAIL 
+EXPOSE 8080:80/tcp
+
