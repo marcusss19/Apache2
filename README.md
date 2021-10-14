@@ -17,7 +17,7 @@ demarer le script siteweb_instantaner.sh avec la Commande
 
 $ sudo bash siteweb_instantaner
 
-##les option du script
+## les option du script
 
 1) la premier option cree l'image et le conteuner avec le siteweb du Github
 2) la deusiem option supprime l'image et le conteneur 
