@@ -1,23 +1,15 @@
 # Apache2
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+#---------------------------------------------------------------------------------
+#-      _ _                      _                        _        _     _         -
+#-     (_) |                    | |                      | |      | |   | |        -
+#-  ___ _| |_ ___  __      _____| |__    _ __   ___  _ __| |_ __ _| |__ | | ___    -
+#- / __| | __/ _ \ \ \ /\ / / _ \ '_ \  | '_ \ / _ \| '__| __/ _` | '_ \| |/ _ \   - 
+#- \__ \ | ||  __/  \ V  V /  __/ |_) | | |_) | (_) | |  | || (_| | |_) | |  __/   -
+#- |___/_|\__\___|   \_/\_/ \___|_.__/  | .__/ \___/|_|   \__\__,_|_.__/|_|\___|   -
+#-                                      | |                                        -
+#-                                      |_|                                        -
+#----------------------------------------------------------------------------------
+#
 
-  <h3 align="center">Best-README-Template</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+
